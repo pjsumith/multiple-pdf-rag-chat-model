@@ -1,1 +1,1 @@
-# multiple-pdf-rag-chat-model
+# MultiPdf ChatBot Model - Gen AI RAG Technique
